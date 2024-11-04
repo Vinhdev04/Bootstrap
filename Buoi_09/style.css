@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(199, 174, 141);
+}
+#slide {
+  font-size: 20px;
+  color: brown;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom: 50px;
+  background-color: aqua;
+  border-radius: 20px;
+}
+
+#slide:hover {
+  color: rgb(91, 25, 197);
+}
